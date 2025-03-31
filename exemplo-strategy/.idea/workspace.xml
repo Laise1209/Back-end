@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf83360e-3292-47e2-a0ab-643feada91ae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ac1-crud-Laise1209" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/src/main/java/com/example/aula2/Aula2Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/src/main/java/com/example/aula2/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/src/main/java/com/example/aula2/FilmeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula2/src/test/java/com/example/aula2/Aula2ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/src/main/java/school/sptech/exemplo_adapter/ExemploAdapterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/src/main/java/school/sptech/exemplo_adapter/controller/UsuarioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/src/main/java/school/sptech/exemplo_adapter/entity/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/src/main/java/school/sptech/exemplo_adapter/exception/UsuarioExistenteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/src/main/java/school/sptech/exemplo_adapter/response/LoginRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/src/main/java/school/sptech/exemplo_adapter/response/UsuarioRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/src/main/java/school/sptech/exemplo_adapter/response/UsuarioResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/src/main/java/school/sptech/exemplo_adapter/service/UsuarioService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-adapter/src/test/java/school/sptech/exemplo_adapter/ExemploAdapterApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/src/main/java/com/example/exemplo_banco/ExemploBancoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/src/main/java/com/example/exemplo_banco/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/src/main/java/com/example/exemplo_banco/LivroController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/src/main/java/com/example/exemplo_banco/LivroRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-banco/src/test/java/com/example/exemplo_banco/ExemploBancoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/src/main/java/school/sptech/exemplo_service/ExemploServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/src/main/java/school/sptech/exemplo_service/controller/ProdutoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/src/main/java/school/sptech/exemplo_service/entity/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/src/main/java/school/sptech/exemplo_service/exception/EntidadeConflitoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/src/main/java/school/sptech/exemplo_service/exception/EntidadeNaoEncontradaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/src/main/java/school/sptech/exemplo_service/repository/ProdutoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/src/main/java/school/sptech/exemplo_service/service/ProdutoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exemplo-service/src/test/java/school/sptech/exemplo_service/ExemploServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/ExemploStrategyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/controller/FreteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/controller/dto/FreteRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/controller/dto/FreteResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/controller/dto/FreteResumidoDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/entity/Frete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/entity/TipoFreteEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/exception/FreteInvalidoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/repository/FreteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/service/FreteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/service/strategy/FreteExpressoStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/service/strategy/FreteNormalStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/service/strategy/FreteStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/school/sptech/exemplo_strategy/service/strategy/FreteTransportadoraStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/school/sptech/exemplo_strategy/ExemploStrategyApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/src/main/java/school/sptech/primeira_aula/CalculadoraCotroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/src/main/java/school/sptech/primeira_aula/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/src/main/java/school/sptech/primeira_aula/FilmeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/src/main/java/school/sptech/primeira_aula/FrasesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/src/main/java/school/sptech/primeira_aula/PrimeiraAulaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../primeira-aula/src/test/java/school/sptech/primeira_aula/PrimeiraAulaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/src/main/java/school/sptech/status_buscadores/Musica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/src/main/java/school/sptech/status_buscadores/MusicaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/src/main/java/school/sptech/status_buscadores/MusicaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/src/main/java/school/sptech/status_buscadores/StatusBuscadoresApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../status-buscadores/src/test/java/school/sptech/status_buscadores/StatusBuscadoresApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../treino-ac1-carro-Laise1209" beforeDir="false" afterPath="$PROJECT_DIR$/../treino-ac1-carro-Laise1209" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ulcNKPe3WImNDImF7iuLEtmmoF" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ExemploStrategyApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL INSPIRON 15/Documents/Back-end/exemplo-strategy/pom.xml&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ExemploStrategyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="school.sptech.exemplo_strategy.ExemploStrategyApplication" />
+      <module name="exemplo-strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="school.sptech.exemplo_strategy.controller.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExemploStrategyApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf83360e-3292-47e2-a0ab-643feada91ae" name="Changes" comment="" />
+      <created>1742826560544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742826560544</updated>
+    </task>
+    <servers />
+  </component>
+</project>
