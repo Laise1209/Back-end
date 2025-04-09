@@ -12,10 +12,16 @@ public class FreteRequestDto {
     @NotNull
     @Positive
     @DecimalMin(value = "1.0")
+    @Schema(description="Peso do produto em KG", example="10.0")
     private Double pesoEmKg;
 
     @NotNull
     @NotBlank
+    @Schema(description="Tipo do frete", allowavleValues={
+            "NORMAL",
+            "EXPRESSO",
+            "TRANSPORTADORA"
+    })
     private String tipo;
 
     @NotNull
